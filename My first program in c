@@ -2,5 +2,6 @@
 int main() {
    // printf() displays the string inside quotation
    printf("Helllllllo Fraaaaaands, Chai Peeeeeeelo!!!!");
+   printf("OOO garam hai!!!");
    return 0;
 }
